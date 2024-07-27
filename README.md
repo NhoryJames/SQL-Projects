@@ -1,6 +1,6 @@
 # SQL Projects
 
-This repository contains a collection of SQL projects focused on various aspects of data analysis. Each project demonstrates the use of SQL for Exploratory Data Analysis (EDA), data cleaning, and customer segmentation.
+This repository contains a collection of SQL projects focused on various aspects of data analysis. Each project demonstrates the use of SQL and SQL Server Management Studio for Exploratory Data Analysis (EDA), data cleaning, and customer segmentation.
 
 ### Contents
 | Project        | Project Description  | Status  | 
