@@ -4,12 +4,12 @@
 
 <h3>Contents</h3>
 
-<table style="width: 100%; border-collapse: collapse;">
+<table style="width: 100%; border-collapse: collapse; margin: 0; padding: 0;">
   <thead>
     <tr>
-      <th style="border: 1px solid #ddd; padding: 8px;">Project</th>
-      <th style="border: 1px solid #ddd; padding: 8px;">Project Description</th>
-      <th style="border: 1px solid #ddd; padding: 8px;">Status</th>
+      <th style="border: 1px solid #ddd; padding: 8px; text-align: left;">Project</th>
+      <th style="border: 1px solid #ddd; padding: 8px; text-align: left;">Project Description</th>
+      <th style="border: 1px solid #ddd; padding: 8px; text-align: left;">Status</th>
     </tr>
   </thead>
   <tbody>
