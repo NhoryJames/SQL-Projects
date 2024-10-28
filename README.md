@@ -20,7 +20,7 @@
         <td><a href="https://github.com/NhoryJames/SQL-Projects/blob/main/%5BDATA%20CLEANING%5D%20Bike%20Sales.sql">Bike Sales</a></td>
         <td></td>
         <td><strong>DONE</strong></td>
-        <td>EDA w/ Data Cleaning</td>
+        <td>Data Cleaning</td>
         <td>May 2024</td>
       </tr>
       <tr>
