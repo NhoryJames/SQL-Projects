@@ -9,30 +9,40 @@
     <thead>
       <tr>
         <th>Project</th>
-        <th>Project Description</th>
+        <th>Description</th>
         <th>Status</th>
+        <th>Project Type</th>
+        <th>Date Finished</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td><a href="https://github.com/NhoryJames/SQL-Projects/blob/main/%5BDATA%20CLEANING%5D%20Bike%20Sales.sql">Bike Sales</a></td>
-        <td>Data Cleaning & Exploratory Data Analysis</td>
+        <td></td>
         <td><strong>DONE</strong></td>
+        <td>EDA w/ Data Cleaning</td>
+        <td>May 2024</td>
       </tr>
       <tr>
         <td><a href="https://github.com/NhoryJames/SQL-Projects/blob/main/%5BEDA%5D%20Student%20Grades.sql">Student Grades</a></td>
-        <td>Exploratory Data Analysis</td>
+        <td></td>
         <td><strong>DONE</strong></td>
+        <td>EDA</td>
+        <td>May 2024</td>
       </tr>
       <tr>
         <td><a href="https://github.com/NhoryJames/SQL-Projects/blob/main/%5BEDA%5D%20Synthetic%20Healthcare%20Dataset.sql">Synthetic Healthcare Dataset</a></td>
-        <td>Exploratory Data Analysis</td>
+        <td></td>
         <td><strong>DONE</strong></td>
+        <td>EDA</td>
+        <td>May 2024</td>
       </tr>
       <tr>
         <td><a href="https://github.com/NhoryJames/SQL-Projects/blob/main/%5BRFM%20Analysis%5D%20Automobile%20Sales.sql">Automobile Sales</a></td>
-        <td>Exploratory Data Analysis and RFM Analysis</td>
+        <td></td>
         <td><strong>DONE</strong></td>
+        <td>EDA with RFM Analysis</td>
+        <td>May 2024</td>
       </tr>
     </tbody>
   </table>
