@@ -9,7 +9,7 @@
     <thead>
       <tr>
         <th>Project</th>
-        <th>Description</th>
+        <th>Project Details</th>
         <th>Project Type</th>
         <th>Status</th>
         <th>Date Finished</th>
@@ -27,7 +27,7 @@
       </tr>
       <tr>
         <td><a href="https://github.com/NhoryJames/SQL-Projects/blob/main/%5BEDA%5D%20Student%20Grades.sql">Student Grades</a></td>
-        <td></td>
+        <td>Analyzed student's academic performance based on their career aspirations, employement status, extracurricular involvement, number of absents, and weekly hours spend in self studying. </td>
         <td>EDA</td>
         <td><strong>DONE</strong></td>
         <td>May 2024</td>
