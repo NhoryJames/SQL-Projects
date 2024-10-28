@@ -10,39 +10,44 @@
       <tr>
         <th>Project</th>
         <th>Description</th>
-        <th>Status</th>
         <th>Project Type</th>
+        <th>Status</th>
         <th>Date Finished</th>
+        <th>Dataset</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td><a href="https://github.com/NhoryJames/SQL-Projects/blob/main/%5BDATA%20CLEANING%5D%20Bike%20Sales.sql">Bike Sales</a></td>
-        <td></td>
-        <td><strong>DONE</strong></td>
+        <td>Cleaned a bike sales dataset using CTEs, NULL and string functions. Standardized dates and age groups and separated product descriptions to make the data ready for a more in-depth analysis </td>
         <td>Data Cleaning</td>
+        <td><strong>DONE</strong></td>
         <td>May 2024</td>
+        <td></td>
       </tr>
       <tr>
         <td><a href="https://github.com/NhoryJames/SQL-Projects/blob/main/%5BEDA%5D%20Student%20Grades.sql">Student Grades</a></td>
         <td></td>
-        <td><strong>DONE</strong></td>
         <td>EDA</td>
+        <td><strong>DONE</strong></td>
         <td>May 2024</td>
+        <td></td>
       </tr>
       <tr>
         <td><a href="https://github.com/NhoryJames/SQL-Projects/blob/main/%5BEDA%5D%20Synthetic%20Healthcare%20Dataset.sql">Synthetic Healthcare Dataset</a></td>
         <td></td>
-        <td><strong>DONE</strong></td>
         <td>EDA</td>
+        <td><strong>DONE</strong></td>
         <td>May 2024</td>
+        <td></td>
       </tr>
       <tr>
         <td><a href="https://github.com/NhoryJames/SQL-Projects/blob/main/%5BRFM%20Analysis%5D%20Automobile%20Sales.sql">Automobile Sales</a></td>
         <td></td>
-        <td><strong>DONE</strong></td>
         <td>EDA with RFM Analysis</td>
+        <td><strong>DONE</strong></td>
         <td>May 2024</td>
+        <td></td>
       </tr>
     </tbody>
   </table>
