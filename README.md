@@ -13,7 +13,6 @@
         <th>Project Type</th>
         <th>Status</th>
         <th>Date Finished</th>
-        <th>Dataset</th>
       </tr>
     </thead>
     <tbody>
@@ -23,7 +22,6 @@
         <td>Data Cleaning</td>
         <td><strong>DONE</strong></td>
         <td>May 2024</td>
-        <td></td>
       </tr>
       <tr>
         <td><a href="https://github.com/NhoryJames/SQL-Projects/blob/main/%5BEDA%5D%20Student%20Grades.sql">Student Grades</a></td>
@@ -31,7 +29,6 @@
         <td>EDA</td>
         <td><strong>DONE</strong></td>
         <td>May 2024</td>
-        <td></td>
       </tr>
       <tr>
         <td><a href="https://github.com/NhoryJames/SQL-Projects/blob/main/%5BEDA%5D%20Synthetic%20Healthcare%20Dataset.sql">Synthetic Healthcare Dataset</a></td>
@@ -39,7 +36,6 @@
         <td>EDA</td>
         <td><strong>DONE</strong></td>
         <td>May 2024</td>
-        <td></td>
       </tr>
       <tr>
         <td><a href="https://github.com/NhoryJames/SQL-Projects/blob/main/%5BRFM%20Analysis%5D%20Automobile%20Sales.sql">Automobile Sales</a></td>
@@ -47,7 +43,6 @@
         <td>EDA with RFM Analysis</td>
         <td><strong>DONE</strong></td>
         <td>May 2024</td>
-        <td></td>
       </tr>
     </tbody>
   </table>
